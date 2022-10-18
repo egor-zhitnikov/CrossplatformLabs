@@ -1,0 +1,9 @@
+Task #1|N: 8|K: 8|Result: 40320
+Task #2|N: 3|K: 2|Result: 36
+Task #5|N: 0|K: 0|Result: 0
+Task #6|N: 0|K: 1|Result: 0
+Task #7|N: 2|K: 1|Result: 4
+Task #8|N: 8|K: 7|Result: 322560
+Task #9|N: 8|K: 6|Result: 2257920
+Task #10|N: 3|K: 4|Result: 0
+Task #11|N: -2|K: 3|Result: 0

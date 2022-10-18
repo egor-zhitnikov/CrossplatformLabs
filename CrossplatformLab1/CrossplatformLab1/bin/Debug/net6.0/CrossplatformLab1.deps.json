@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CrossplatformLab1/1.0.0": {
+        "runtime": {
+          "CrossplatformLab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrossplatformLab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
